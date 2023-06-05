@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7sEifCaq7jFQ5dmPf/GhTho6IcBEeyUHa45EjGD+0qW2IVju1R15WQvM9G9v4mC9BXKLmxc6X+Kc1AdYE0MkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\danCode\\ATM\\ATM\\ATM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
