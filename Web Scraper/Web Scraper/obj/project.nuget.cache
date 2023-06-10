@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBYoBDiOFr8gJHPFbRsGoG1jLQVdIWZqOn+Fftiyi8pBGm6mGYcjkF2w0eKqV1KpEPzGIAzSeextr7wiZE6vJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\danCode\\Web Scraper\\Web Scraper\\Web Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MegJo\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MegJo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
