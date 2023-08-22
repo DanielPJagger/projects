@@ -1,0 +1,16 @@
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.exe.config
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.exe
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.pdb
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.AssemblyReference.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\App.g.cs
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager_MarkupCompile.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager_MarkupCompile.lref
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\MainWindow.baml
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.g.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.GenerateResource.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.exe
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.pdb

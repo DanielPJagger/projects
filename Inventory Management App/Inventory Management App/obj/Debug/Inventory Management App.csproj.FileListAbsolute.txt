@@ -1,0 +1,11 @@
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\bin\Debug\Inventory Management App.exe.config
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\bin\Debug\Inventory Management App.exe
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\bin\Debug\Inventory Management App.pdb
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory Management App.csproj.AssemblyReference.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory Management App.csproj.SuggestedBindingRedirects.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory_Management_App.InventoryManagementApp.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory_Management_App.Properties.Resources.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory Management App.csproj.GenerateResource.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory Management App.csproj.CoreCompileInputs.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory Management App.exe
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Inventory Management App\Inventory Management App\obj\Debug\Inventory Management App.pdb
