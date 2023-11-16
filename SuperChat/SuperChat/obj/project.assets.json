@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\danCode\\SuperChat\\SuperChat\\SuperChat.csproj",
+      "projectUniqueName": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\gitCode\\SuperChat\\SuperChat\\SuperChat.csproj",
       "projectName": "SuperChat",
-      "projectPath": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\danCode\\SuperChat\\SuperChat\\SuperChat.csproj",
+      "projectPath": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\gitCode\\SuperChat\\SuperChat\\SuperChat.csproj",
       "packagesPath": "C:\\Users\\MegJo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\danCode\\SuperChat\\SuperChat\\obj\\",
+      "outputPath": "C:\\Users\\MegJo\\OneDrive\\Documents\\Practise code\\gitCode\\SuperChat\\SuperChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MegJo\\AppData\\Roaming\\NuGet\\NuGet.Config",

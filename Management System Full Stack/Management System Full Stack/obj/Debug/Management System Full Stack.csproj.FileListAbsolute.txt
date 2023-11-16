@@ -1,0 +1,31 @@
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\Management System Full Stack.exe.config
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\Management System Full Stack.exe
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\Management System Full Stack.pdb
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\Guna.UI2.dll
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.csproj.AssemblyReference.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.Properties.Resources.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.SplashForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.csproj.GenerateResource.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.csproj.CoreCompileInputs.cache
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.csproj.CopyComplete
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.exe
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.pdb
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.MainForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\dbExoticPetShop.mdf
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\dbExoticPetShop_log.ldf
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.UserForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.UserModule.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.productForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.productModule.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.CustomerForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.CustomerModule.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.CashForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.CashProduct.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.LoginForm.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.CashCustomer.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management_System_Full_Stack.Dashboard.resources
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\Management System Full Stack.exe.manifest
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\bin\Debug\Management System Full Stack.application
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.exe.manifest
+C:\Users\MegJo\OneDrive\Documents\Practise code\danCode\Management System Full Stack\Management System Full Stack\obj\Debug\Management System Full Stack.application
