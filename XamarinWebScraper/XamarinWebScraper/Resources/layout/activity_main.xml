@@ -35,7 +35,7 @@
             android:layout_below="@id/Temperature"
             android:layout_marginTop="10dp"
             android:layout_marginleft="3dp"
-            android:textStyle="bold"
+            android:textStyle="bold"/>
     </RelativeLayout>
     
 </LinearLayout>
